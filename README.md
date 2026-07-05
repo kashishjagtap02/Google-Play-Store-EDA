@@ -139,4 +139,4 @@ pip install -r requirements.txt
 
 **Kashish Jagtap**
 
-**Oasis Infobyte Data Analytics Interns**.
+
